@@ -81,7 +81,7 @@ public class Test {
 		System.out.println();
 		System.out.println("..........正在查询..........");
 		try {
-			Thread.sleep(5000);//使程序等待5秒
+			Thread.sleep(3000);//使程序等待5秒
 		}catch(Exception e) {
 			e.printStackTrace();
 		}
